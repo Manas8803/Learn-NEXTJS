@@ -160,6 +160,7 @@ async function seedRevenue(client) {
   }
 }
 
+//!MAIN FUNCTION HERE :
 async function main() {
   const client = await db.connect();
 
